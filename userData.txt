@@ -1,2 +1,0 @@
-MsBird,Breakfast,eggs,20,2023-07-08
-MsBird,Lunch,beans,40,2023-07-08
